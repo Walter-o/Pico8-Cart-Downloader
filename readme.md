@@ -8,5 +8,5 @@ Step 5: <code>python3 start.py</code><br><br>
 If you can't/don't want to run the script yourself: 
 all cart files available on 2022-01-08 have been downloaded and uploaded on archive.org.<br><br>
 https://archive.org/details/Pico8-carts<br><br>
-(Uncompressed size of all carts as of 2022-01-08: 10gb~)
+(Uncompressed size of all carts as of 2022-01-08: 10gb~)<br>
 (Compressed (deflate) size of all carts as of 2022-01-08: 200mb)</div>
